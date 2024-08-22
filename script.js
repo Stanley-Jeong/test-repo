@@ -1,5 +1,3 @@
-
-
 // Tiny Slider
 
 var slider = tns({
